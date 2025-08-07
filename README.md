@@ -1,8 +1,8 @@
-#🧾 Excel/Google Sheets Sales Dashboard
+# 🧾 Excel/Google Sheets Sales Dashboard
 ##Dashboard
 📊 A clean and interactive Sales Dashboard built using Google Sheets, designed to visualize sales performance across product categories and regions. Ideal for quick insights and business decision-making.
 
-##📌 Dataset Overview:
+## 📌 Dataset Overview:
 This project uses a fictional retail dataset with the following columns:
 
 Order ID: Unique identifier for each order
@@ -19,7 +19,7 @@ Sales: Revenue generated
 
 Profit: Net profit from sales
 
-##📊 Dashboard Features:
+## 📊 Dashboard Features:
 Interactive Filters for Region and Category (via slicers)
 
 KPI Summary Cards: Total Sales, Profit, and Quantity
@@ -30,7 +30,7 @@ Donut Chart: Net Quantity Share in Each Region
 
 Line Chart: Monthly Profit Trends by Region
 
-##🧠 Skills Demonstrated:
+## 🧠 Skills Demonstrated:
 Data Cleaning & Structuring in Google Sheets
 
 Pivot Tables for aggregation
@@ -41,7 +41,7 @@ Dynamic Chart Creation
 
 Dashboard Design Best Practices
 
-##📌 Use Cases:
+## 📌 Use Cases:
 This dashboard can be adapted for:
 
 E-commerce performance tracking
